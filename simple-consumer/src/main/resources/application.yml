@@ -1,0 +1,9 @@
+
+zookeeper:
+  address:  zookeeper.co:2181
+  root-path:  '/simple'
+  timeout:  9000
+  data-path:  '/data'
+spring:
+  application:
+    name: simple-consumer
