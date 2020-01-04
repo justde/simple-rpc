@@ -21,7 +21,7 @@
         <commons.collection4.version>4.0</commons.collection4.version>
         <cglib.version>3.1</cglib.version>
         <zookeeper.version>3.4.14</zookeeper.version>
-        <netty.version>4.0.24.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <lombok.version>1.18.10</lombok.version>
     </properties>
     <dependencyManagement>
